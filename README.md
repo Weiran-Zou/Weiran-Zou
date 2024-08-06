@@ -12,14 +12,14 @@
 - 📫 How to reach me **zouweiran9122@gmail.com**
   
 - 📖 Education:
-  1. 🧑‍🎓 Master of Information Technology   -> The University of Melbourne
+  1. 🧑‍🎓 Master of Information Technology   -> University of Melbourne
   2. 🧑‍🎓 Bachelor of Information Technology -> Queensland University of Technology
   
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/weiran zou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="weiran zou" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/weiran-zou-239b6419a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="weiran zou" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vodofearless" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vodofearless" height="30" width="40" /></a>
 </p>
 
