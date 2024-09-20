@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/bd530e6d9abf1c2e64280edbdd6ce59733b13f8d41a8cd1a38da0483b92e1586/68747470733a2f2f74342e667463646e2e6e65742f6a70672f30322f37382f33372f34372f3336305f465f3237383337343733385f7970526e3075744f566e656275686d7053724469776b7a46736471456d3061612e6a7067)](https://rishavchanda.io)
+[![MasterHead](https://as1.ftcdn.net/v2/jpg/01/94/01/00/1000_F_194010093_9tC5JNVsiEOlVDs2F5Y6d0paYrdWTdbT.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Weiran (Peter) Zou</h1>
 <h3 align="center">An enthusiastic IT graduate with full-stack and Android app development skills.</h3>
 <img align="right" alt="Coding" style="width:350px;" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"/>
