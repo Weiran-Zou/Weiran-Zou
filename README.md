@@ -1,4 +1,4 @@
-[![MasterHead](https://as1.ftcdn.net/v2/jpg/01/94/01/00/1000_F_194010093_9tC5JNVsiEOlVDs2F5Y6d0paYrdWTdbT.jpg)](https://rishavchanda.io)
+![MasterHead](./Banner.png/)
 <h1 align="center">Hi 👋, I'm Weiran (Peter) Zou</h1>
 <h3 align="center">An enthusiastic IT graduate with full-stack and Android app development skills.</h3>
 <img align="right" alt="Coding" style="width:350px;" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"/>
