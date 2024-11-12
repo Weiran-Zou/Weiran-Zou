@@ -1,13 +1,13 @@
-![MasterHead](./Banner.png/)
+![MasterHead](./TechnologyBanner.png/)
 <h1 align="center">Hi 👋, I'm Weiran (Peter) Zou</h1>
-<h3 align="center">An enthusiastic IT graduate with full-stack and Android app development skills.</h3>
+<h3 align="center">An enthusiastic IT graduate with skills in full-stack and Android app development.</h3>
 <img align="right" alt="Coding" style="width:350px;" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"/>
 
-- 🔭 I’m currently working on **My Portfolio Website**
+- 🔭 I’m currently working on **PlaceShare Project**
 
 - 🌱 I’m currently learning **AWS**
 
-- 💬 Ask me about **react, Java, JavaScript, express.js**
+- 💬 Ask me about **react, Java, JavaScript, express.js, react native**
 
 - 📫 How to reach me **zouweiran9122@gmail.com**
   
