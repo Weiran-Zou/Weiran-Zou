@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 💬 Ask me about **react, Java, JavaScript, express.js, react native**
+- 💬 Ask me about **React, Node.js, Express.js, Java, JavaScript, react native**
 
 - 📫 How to reach me **zouweiran9122@gmail.com**
   
