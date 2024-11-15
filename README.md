@@ -1,4 +1,3 @@
-![MasterHead](./TechnologyBanner.png/)
 # 👋 Hi, I'm Weiran (Peter) Zou
 **`Full Stack Development (React/Node.js/JavaScript/React Native)`**
 
