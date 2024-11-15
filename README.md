@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Weiran (Peter) Zou
 **`Full Stack Development (React/Node.js/JavaScript/React Native)`**
 
-👩🏻‍💻 Software developer passionate about crafting innovative digital solutions and transforming ideas into reality <br />
+👩🏻‍💻 Recent IT graduate passionate about software development, crafting innovative digital solutions, and transforming ideas into reality <br />
 👩🏻‍🎓 Studied **Master of Information Technology** at University of Melbourne <br />
 🔭 Currently working on **PlaceShare Project and Weather App** <br />
 🌱 Currently learning **TypeScript and AWS** 
@@ -40,4 +40,4 @@
 #
 
 ### 📊 Stats
-![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=weiran-zou&show_icons=true&theme=gruvbox&hide=stars)
+![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=weiran-zou&show_icons=true&theme=radical&hide=stars)
