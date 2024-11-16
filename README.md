@@ -6,18 +6,13 @@
 🔭 Currently working on **PlaceShare Project and Weather App** <br />
 🌱 Currently learning **TypeScript and AWS** 
 
----
-
-### 🚀 Connect with me
+## 🚀 Connect with me
 
 <a href="https://www.linkedin.com/in/weiran-zou-239b6419a/" target="blank" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30px" style="padding-right:10px;" />
 </a>
-<br />
 
-#
-
-### 🧰 Languages and Tools
+## 🧰 Languages and Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="30px" style="padding-right:10px;" align="left"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30px" style="padding-right:10px;" align="left"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express.js" width="30px" style="padding-right:10px;" align="left"/>
@@ -32,11 +27,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="30px" style="padding-right:10px;" align="left"/>    
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" alt="Jest" width="30px" style="padding-right:10px;" align="left"/>   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="30px" style="padding-right:10px;" align="left"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30px" alt="git" style="padding-right:10px;" align="left"/>
-          
-<br />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30px" alt="git" style="padding-right:10px;" />
 
-#
 
-### 📊 Stats
+## 📊 Stats
 ![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=weiran-zou&show_icons=true&theme=radical&hide=stars)
