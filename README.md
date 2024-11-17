@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Weiran (Peter) Zou
-**`Full Stack Development (React/Node.js/JavaScript/React Native)`**
+**`Full Stack Development | React | Node.js | JavaScript | React Native`**
 
 👩🏻‍💻 Recent IT graduate passionate about software development, crafting innovative digital solutions, and transforming ideas into reality <br />
 👩🏻‍🎓 Studied **Master of Information Technology** at University of Melbourne <br />
@@ -12,7 +12,6 @@
 
 ## 🧰 Languages and Tools  
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -23,8 +22,6 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
 ## 📊 Stats
 ![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=weiran-zou&show_icons=true&theme=radical&hide=stars)
